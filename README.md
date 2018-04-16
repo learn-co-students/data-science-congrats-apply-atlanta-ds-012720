@@ -15,10 +15,10 @@ Here’s how:
 
 Once done, one of our Admissions Advisors (likely Amanda, Tyler, or Annette) will reach back to you directly to schedule a quick chat. Nothing technical. Just a friendly conversation for us to get to know each other better and better understand your goals.
 
-In the meantime, when you [complete your application](http://go.flatironschool.com/data-science-immersive-application) (and only when) we’ll unlock the next 50 lessons of material for you here in Data Science Bootcamp Prep on Learn.co so you can continue learning, and gaining the skills to be successful in our technical interview and Day 1 of the full course.
+In the meantime, when you [complete your application](http://go.flatironschool.com/data-science-immersive-application) (and only when) we’ll unlock the next 50 lessons of material for you here in Data Science Bootcamp Prep on Learn.co so you can continue learning and gaining the skills to be successful in our technical interview and Day 1 of the full course.
 
 
-Here’s what you’ll learn in the next section, once you unlock it: 
+Here’s what you’ll learn in the next section, once you unlock it:
 
 * Continuing with programming fundamentals with dictionaries, functions, and loops
 * Data Visualization: using plots to display data

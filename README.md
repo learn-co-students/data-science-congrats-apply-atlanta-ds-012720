@@ -6,7 +6,7 @@ Great job, you’ve completed the first nine lessons of our Data Science Bootcam
 
 ![](https://s3.amazonaws.com/learn-verified/data-science-assets/great-congratulations-GIF.gif)
 
-Given your progress so far, the next best step for you is to start your application to the [full-time Data Science Bootcamp course.](http://go.flatironschool.com/data-science-immersive-application) You’ve demonstrated the passion, dedication, and technical aptitude to be a very strong candidate for our course. And, because we’re committed to helping you succeed in your data science goals we’re going to encourage you to take the next step right now.
+Given your progress so far, the next best step for you is to start your application to the [full-time Data Science Bootcamp course.](http://go.flatironschool.com/data-science-immersive-application) You’ve demonstrated the passion, dedication, and technical aptitude to be a very strong candidate for our course. And, because we’re committed to helping you succeed in your data science goals we’re going to encourage you to take the next step *right now*.
 
 Here’s how:
 * [Submit a written application](http://go.flatironschool.com/data-science-immersive-application) by telling us a little bit about yourself

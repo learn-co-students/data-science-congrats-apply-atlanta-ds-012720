@@ -1,12 +1,12 @@
 
 # Congratulations! You’re Ready to Apply
 
-Great job, you’ve completed the first nine lessons of our Data Science Bootcamp Prep course! Feel proud of yourself - that’s no easy task. You’re already further along than most folks when it comes to considering a new career path or developing a new skill.
+Great job, you’ve completed the first ten lessons of our Data Science Bootcamp Prep course! Feel proud of yourself - that’s no easy task. You’re already further along than most folks when it comes to considering a new career path or developing a new skill.
 
 
 ![](https://s3.amazonaws.com/learn-verified/data-science-assets/great-congratulations-GIF.gif)
 
-Given your progress so far, the next best step for you is to start your application to the [full-time Data Science Bootcamp course.](http://go.flatironschool.com/data-science-immersive-application) You’ve demonstrated the passion, dedication, and technical aptitude to be a very strong candidate for our course. And, because we’re committed to helping you succeed in your data science goals we’re going to encourage you to take the next step *right now*.
+Given your progress so far, the next best step for you is to start your application to either the online or NYC in-person Data Science Bootcamp course.  You’ve demonstrated the passion, dedication, and technical aptitude to be a very strong candidate for our course. And, because we’re committed to helping you succeed in your data science goals we’re going to encourage you to take the next step *right now*.
 
 Here’s how:
 * [Submit a written application](http://go.flatironschool.com/data-science-immersive-application) by telling us a little bit about yourself
@@ -27,4 +27,4 @@ Here’s what you’ll learn in the next section, once you unlock it:
 Pretty. Cool. Stuff.
 
 
-Got it? Great! [Start your full-time Data Science Bootcamp application](http://go.flatironschool.com/data-science-immersive-application) and we’ll send an access code to your email to unlock the rest of this course. Not looking to apply to our full-time immersive course - [apply to our part-time course, Intro to Data Science](http://go.flatironschool.com/intro-to-data-science-application) (offered in NYC and London), which also unlocks access to the next 50+ lessons.
+Got it? Great! [Start your full-time Data Science Bootcamp application](http://go.flatironschool.com/data-science-immersive-application) and we’ll send an access code to your email to unlock the rest of this course. Not looking to apply to our full-time immersive course - [apply to our part-time course, Intro to Data Science](http://go.flatironschool.com/intro-to-data-science-application) (offered in NYC and London) or consider our [Self-Paced online course](http://go.flatironschool.com/data-science-immersive-application), both of which unlocks access to the next 50+ lessons.

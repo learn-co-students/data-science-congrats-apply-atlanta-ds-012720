@@ -27,4 +27,4 @@ Here’s what you’ll learn in the next section, once you unlock it:
 Pretty. Cool. Stuff.
 
 
-Got it? Great! [Start your full-time Data Science Bootcamp application](http://go.flatironschool.com/data-science-immersive-application) and we’ll send an access code to your email to unlock the rest of this course. Not looking to apply to a career course - [apply to our skill-up course, Intro to Data Science](http://go.flatironschool.com/intro-to-data-science-application) where available, which also unlocks access to the next 50+ lessons.
+Got it? Great! [Start your full-time Data Science Bootcamp application](http://go.flatironschool.com/data-science-immersive-application) and we’ll send an access code to your email to unlock the rest of this course.
